@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SonarLintProjectSettings">
+    <option name="moduleMapping">
+      <map>
+        <entry key="Feu_de_foret_Saif_Kadrane" value="Feudeforet" />
+      </map>
+    </option>
+  </component>
+</project>
